@@ -1,0 +1,483 @@
+// Source: a.cs
+// a
+// Source: b.html
+<p>b</p>
+// Source: .vs\ss\v17\DocumentLayout.backup.json
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\User\\Downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED72E39-B19D-435B-82CD-BA3D73B571D4}|ss.csproj|d:\\users\\user\\downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED72E39-B19D-435B-82CD-BA3D73B571D4}|ss.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED72E39-B19D-435B-82CD-BA3D73B571D4}|ss.csproj|d:\\users\\user\\downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\ss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DED72E39-B19D-435B-82CD-BA3D73B571D4}|ss.csproj|solutionrelative:ss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ss.csproj",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\ss.csproj",
+              "RelativeDocumentMoniker": "ss.csproj",
+              "ToolTip": "D:\\Users\\User\\Downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\ss.csproj",
+              "RelativeToolTip": "ss.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T19:21:52.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:46:14.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+// Source: .vs\ss\v17\DocumentLayout.json
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\User\\Downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED72E39-B19D-435B-82CD-BA3D73B571D4}|ss.csproj|d:\\users\\user\\downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED72E39-B19D-435B-82CD-BA3D73B571D4}|ss.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED72E39-B19D-435B-82CD-BA3D73B571D4}|ss.csproj|d:\\users\\user\\downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\ss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DED72E39-B19D-435B-82CD-BA3D73B571D4}|ss.csproj|solutionrelative:ss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ss.csproj",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\ss.csproj",
+              "RelativeDocumentMoniker": "ss.csproj",
+              "ToolTip": "D:\\Users\\User\\Downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\ss.csproj",
+              "RelativeToolTip": "ss.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T19:21:52.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\ss\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:46:14.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+// Source: Program.cs
+using System.CommandLine;
+var rootCommand = new RootCommand("rootCommand for file bundler CLI");
+var languageOption = new Option<string[]>("--language", "-l")
+{
+    Description = "Bundles code files of the selected languages or all languages",
+    Required = true,
+    AllowMultipleArgumentsPerToken = true
+};
+var outputOption = new Option<FileInfo>("--output", "-o")
+{
+    Description = "File path and name for the bundle file",
+    Required = true
+};
+var noteOption = new Option<bool>("--note", "-n")
+{
+    Description = "Add the source file path as a comment before each file",
+};
+var removeEmptyLinesOption = new Option<bool>("--remove-empty-lines", "-rel")
+{
+    Description = "Remove empty lines from the code before bundling"
+};
+var sortOption = new Option<string>("--sort", "-s")
+{
+    Description = "Sort files by 'name' (default) or by 'type'",
+    DefaultValueFactory = _ => "name"
+};
+var authorOption = new Option<string>("--author", "-a")
+{
+    Description = "Name of the bundle file's author"
+};
+sortOption.AcceptOnlyFromAmong("name", "type");
+var bundleCommand = new Command("bundle", "Bundles code files into a single file");
+var createRspCommand = new Command("create-rsp", "Create a response file with a ready bundle command");
+var languageExtensions = new Dictionary<string, string>
+{
+    ["csharp"] = ".cs",
+    ["html"] = ".html",
+    ["css"] = ".css",
+    ["javascript"] = ".js",
+    ["typescript"] = ".ts",
+    ["sql"] = ".sql",
+    ["python"] = ".py",
+    ["java"] = ".java",
+    ["cpp"] = ".cpp",
+    ["c"] = ".c",
+    ["json"] = ".json"
+};
+createRspCommand.SetAction(parseResult =>
+{
+    string languagesAnswer;
+    while (true)
+    {
+        Console.Write("Which languages? (separated by spaces, or 'all'): ");
+        languagesAnswer = Console.ReadLine() ?? "";
+        var chosen = languagesAnswer.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+        if (chosen.Length == 0)
+        {
+            Console.WriteLine("Please enter at least one language.");
+        }
+        else if (chosen.All(l => l == "all" || languageExtensions.ContainsKey(l)))
+        {
+            break;
+        }
+        else
+        {
+            Console.WriteLine($"Unknown language. Options: all, {string.Join(", ", languageExtensions.Keys)}");
+        }
+    }
+    string outputAnswer;
+    while (true)
+    {
+        Console.Write("Output file name or path: ");
+        outputAnswer = Console.ReadLine() ?? "";
+        if (!string.IsNullOrWhiteSpace(outputAnswer))
+        {
+            break;
+        }
+        Console.WriteLine("Output file name is required.");
+    }
+    Console.Write("Add source notes? (y/n): ");
+    var noteAnswer = Console.ReadLine() == "y";
+    string sortAnswer;
+    while (true)
+    {
+        Console.Write("Sort by 'name' or 'type' (press Enter for name): ");
+        sortAnswer = Console.ReadLine() ?? "";
+        if (sortAnswer == "" || sortAnswer == "name" || sortAnswer == "type")
+        {
+            break;
+        }
+        Console.WriteLine("Please enter 'name', 'type', or press Enter.");
+    }
+    Console.Write("Remove empty lines? (y/n): ");
+    var removeEmptyLinesAnswer = Console.ReadLine() == "y";
+    Console.Write("Author name (press Enter to skip): ");
+    var authorAnswer = Console.ReadLine();
+    Console.Write("Response file name: ");
+    var rspFileName = Console.ReadLine();
+    var parts = new List<string> { "bundle" };
+    parts.Add("--language");
+    parts.Add(languagesAnswer);
+    parts.Add("--output");
+    parts.Add($"\"{outputAnswer}\"");
+    if (noteAnswer)
+    {
+        parts.Add("--note");
+    }
+    if (!string.IsNullOrWhiteSpace(sortAnswer))
+    {
+        parts.Add("--sort");
+        parts.Add(sortAnswer);
+    }
+    if (removeEmptyLinesAnswer)
+    {
+        parts.Add("--remove-empty-lines");
+    }
+    if (!string.IsNullOrWhiteSpace(authorAnswer))
+    {
+        parts.Add("--author");
+        parts.Add($"\"{authorAnswer}\"");
+    }
+    var fullCommand = string.Join(" ", parts);
+    var rspPath = rspFileName + ".rsp";
+    File.WriteAllText(rspPath, fullCommand);
+    Console.WriteLine($"Created {rspPath}");
+    Console.WriteLine($"Run it with: ss @{rspPath}");
+});
+bundleCommand.SetAction(parseResult =>
+{
+    var currentDirectory = Directory.GetCurrentDirectory();
+    var files = Directory.GetFiles(currentDirectory, "*.*", SearchOption.AllDirectories);
+    var languages = parseResult.GetValue(languageOption);
+    var extensions = new List<string>();
+    if (languages.Contains("all"))
+    {
+        extensions.AddRange(languageExtensions.Values);
+    }
+    else
+    {
+        foreach (var language in languages)
+        {
+            if (languageExtensions.ContainsKey(language))
+            {
+                extensions.Add(languageExtensions[language]);
+            }
+            else
+            {
+                Console.WriteLine($"Unknown language: {language}");
+            }
+        }
+    }
+    var excludedFolders = new[] { "bin", "obj", "debug" };
+    var selectedFiles = new List<string>();
+    foreach (var file in files)
+    {
+        var extension = Path.GetExtension(file);
+        var folders = file.ToLower().Split(Path.DirectorySeparatorChar);
+        if (extensions.Contains(extension) && !folders.Any(f => excludedFolders.Contains(f)))
+        {
+            selectedFiles.Add(file);
+        }
+    }
+    if (selectedFiles.Count == 0)
+    {
+        Console.WriteLine("No matching code files were found in this folder.");
+        return;
+    }
+    var output = parseResult.GetValue(outputOption);
+    var note = parseResult.GetValue(noteOption);
+    var sort = parseResult.GetValue(sortOption);
+    var removeEmptyLines = parseResult.GetValue(removeEmptyLinesOption);
+    var author = parseResult.GetValue(authorOption);
+    if (sort == "type")
+    {
+        selectedFiles = selectedFiles
+        .OrderBy(f => Path.GetExtension(f))
+        .ThenBy(f => Path.GetFileName(f))
+        .ToList();
+    }
+    else
+    {
+        selectedFiles = selectedFiles
+            .OrderBy(f => Path.GetFileName(f))
+            .ToList();
+    }
+    if (extensions.Count == 0)
+    {
+        Console.WriteLine("Error: no valid languages were given. Nothing to bundle.");
+        return;
+    }
+    try
+    {
+        using var writer = new StreamWriter(output.FullName);
+        if (!string.IsNullOrWhiteSpace(author))
+        {
+            writer.WriteLine($"// Author: {author}");
+        }
+        foreach (var file in selectedFiles)
+        {
+            if (note)
+            {
+                var relativePath = Path.GetRelativePath(currentDirectory, file);
+                writer.WriteLine($"// Source: {relativePath}");
+            }
+            var content = File.ReadAllText(file);
+            if (removeEmptyLines)
+            {
+                var lines = content.Split('\n');
+                var nonEmptyLines = lines.Where(line => !string.IsNullOrWhiteSpace(line));
+                content = string.Join("\n", nonEmptyLines);
+            }
+            writer.WriteLine(content);
+        }
+        Console.WriteLine($"Bundle created: {output.FullName}");
+    }
+    catch (DirectoryNotFoundException)
+    {
+        Console.WriteLine("Error: the folder in the output path does not exist");
+    }
+    catch (UnauthorizedAccessException)
+    {
+        Console.WriteLine("Error: no permission to write to this location");
+    }
+});
+rootCommand.Add(bundleCommand);
+rootCommand.Add(createRspCommand);
+bundleCommand.Add(languageOption);
+bundleCommand.Add(outputOption);
+bundleCommand.Add(noteOption);
+bundleCommand.Add(sortOption);
+bundleCommand.Add(removeEmptyLinesOption);
+bundleCommand.Add(authorOption);
+return rootCommand.Parse(args).Invoke();
+// Source: publish\ss.deps.json
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ss/1.0.0": {
+        "dependencies": {
+          "System.CommandLine": "3.0.0-rc.1.26425.128"
+        },
+        "runtime": {
+          "ss.dll": {}
+        }
+      },
+      "System.CommandLine/3.0.0-rc.1.26425.128": {
+        "dependencies": {
+          "System.Memory": "4.6.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.CommandLine.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.26.42628"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/cs/System.CommandLine.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/netstandard2.0/de/System.CommandLine.resources.dll": {
+            "locale": "de"
+          },
+          "lib/netstandard2.0/es/System.CommandLine.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netstandard2.0/fr/System.CommandLine.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard2.0/it/System.CommandLine.resources.dll": {
+            "locale": "it"
+          },
+          "lib/netstandard2.0/ja/System.CommandLine.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/netstandard2.0/ko/System.CommandLine.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/netstandard2.0/pl/System.CommandLine.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/netstandard2.0/pt-BR/System.CommandLine.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/netstandard2.0/ru/System.CommandLine.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/netstandard2.0/tr/System.CommandLine.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/netstandard2.0/zh-Hans/System.CommandLine.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/netstandard2.0/zh-Hant/System.CommandLine.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "System.Memory/4.6.3": {}
+    }
+  },
+  "libraries": {
+    "ss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.CommandLine/3.0.0-rc.1.26425.128": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YelucFACwwoc9L10R71DA2BwviTRNTCJysSAB9nh5tbg3+qzfFSX2r5Hk6kvZcSTMuRaEL7SigH3WorN8rkGag==",
+      "path": "system.commandline/3.0.0-rc.1.26425.128",
+      "hashPath": "system.commandline.3.0.0-rc.1.26425.128.nupkg.sha512"
+    },
+    "System.Memory/4.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qdcDOgnFZY40+Q9876JUHnlHu7bosOHX8XISRoH94fwk6hgaeQGSgfZd8srWRZNt5bV9ZW2TljcegDNxsf+96A==",
+      "path": "system.memory/4.6.3",
+      "hashPath": "system.memory.4.6.3.nupkg.sha512"
+    }
+  }
+}
+// Source: publish\ss.runtimeconfig.json
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "8.0.0"
+    },
+    "configProperties": {
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false,
+      "System.CommandLine.ExecutableName": "ss"
+    }
+  }
+}
