@@ -174,7 +174,7 @@ bundleCommand.SetAction(parseResult =>
             }
         }
     }
-    var excludedFolders = new[] { "bin", "obj", "debug" };
+    var excludedFolders = new[] { "bin", "obj", "debug", ".vs" };
     var selectedFiles = new List<string>();
     foreach (var file in files)
     {
