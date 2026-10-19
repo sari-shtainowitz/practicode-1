@@ -47,8 +47,7 @@ var languageExtensions = new Dictionary<string, string>
     ["python"] = ".py",
     ["java"] = ".java",
     ["cpp"] = ".cpp",
-    ["c"] = ".c",
-    ["json"] = ".json"
+    ["c"] = ".c"
 };
 createRspCommand.SetAction(parseResult =>
 {
